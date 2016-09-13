@@ -1,5 +1,7 @@
 # COMP490-Project-Primer
 COMP 490: Individual Primer Project
+Manvel Mkhitaryan
+Fall 2016
 
 Student Page: http://www.csun.edu/~mm553947/
 
