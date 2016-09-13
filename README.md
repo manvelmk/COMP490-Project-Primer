@@ -4,7 +4,9 @@ COMP 490: Individual Primer Project
 Student Page: http://www.csun.edu/~mm553947/
 
 -Created an index page
+
 -Using supplied simple.cgi adapted to use cat and curl with the GET verb
+
 -Added outputs to display Current working directory, PATH, script location, user agent and request method
 
 Overview:
