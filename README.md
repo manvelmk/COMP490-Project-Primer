@@ -3,11 +3,15 @@ COMP 490: Individual Primer Project
 
 Student Page: http://www.csun.edu/~mm553947/
 
+-Set up the environment
+
 -Created an index page
 
 -Using supplied simple.cgi adapted to use cat and curl with the GET verb
 
 -Added outputs to display Current working directory, PATH, script location, user agent and request method
+
+-Created a sample html file with FORM/Submit using www.rebol.com web server to test the GET verb and display the html correctly
 
 Overview:
 In this project, you are to create a simple web application.  This web application can be written in any programming language of your choice.  However, you must use the simple CGI interface.  I.e., you can’t use the vendor supplied libraries to read access the HTTP Header information.
