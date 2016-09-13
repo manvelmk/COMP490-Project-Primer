@@ -6,7 +6,6 @@ Fall 2016
 
 Student Page: http://www.csun.edu/~mm553947/
 
-
 -Set up the environment
 
 -Created an index page
