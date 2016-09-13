@@ -40,11 +40,14 @@ echo "_____"
 
 if [ -n "${QUERY_STRING}" ] ; then 
    echo $QUERY_STRING
+   #Display the query string if one exists
    cat ${QUERY_STRING}
+   #Display the contents of the query string if it is a file in same directory
 fi
 
 #/usr/bin/curl http://www.csun.edu/engineering-computer-science/computer-science
 /usr/bin/curl $QUERY_STRING
+#curl the query string if it is a http address to display as a embeded page
 
 # Read the body -- if it is a post
 while read _post_line ; do
